@@ -1,21 +1,3 @@
 # IslandsEngine
 
-**TODO: Add description**
-
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `islands_engine` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:islands_engine, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/islands_engine](https://hexdocs.pm/islands_engine).
-
+Based on the book [Functional Web Development with Elixir, OTP, and Phoenix: Rethink the Modern Web App](https://www.amazon.com/Functional-Web-Development-Elixir-Phoenix/dp/1680502433?SubscriptionId=0K1019RWK8CNM7CNZV82&tag=0a0-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1680502433).
